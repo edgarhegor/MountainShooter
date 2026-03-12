@@ -1,2 +1,14 @@
+# venv
 venv/
-.idea
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# ide
+.idea/
+.vscode/
+
+# env
+.env
